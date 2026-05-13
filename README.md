@@ -2,6 +2,9 @@
 
 ![Project Screenshot](./src/sc/screenshot.png)
 
+## 🔗 Deployed Project:
+https://random-gif-generator-0hlh.onrender.com
+
 ## Overview
 
 Random GIF Generator is a fun and interactive React application that brings you a continuous stream of entertainment. It allows users to generate completely random GIFs or search for specific ones using custom tags. The project uses the Giphy API to fetch the images and is styled with Tailwind CSS for a clean, modern look. 
